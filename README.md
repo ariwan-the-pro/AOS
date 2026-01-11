@@ -1,22 +1,21 @@
-Hoe je AOS klaarmaakt
+How to set up AOS
 
+1. Go to cmd
 
-1. ga naar cmd
+2. Type wsl --install
 
-2. type wsl --install
+3. Do the Linux setup.
 
-3. doe de linux setup.
+4. When you are in WSL, type mkdir aos
 
-4. waneer je je in WSL bevindt type mkdir aos
+5. Then cd aos
 
-5. dan cd aos
+6. Type nano aos.sh
 
-6. type nano aos.sh
+7. Type all the code from the GitHub page into the file
 
-7. type alle code in de github pagina in het bestand
+8. Ctrl+O, enter, Ctrl+X
 
-8. ctrl+O, enter, ctrl+X
+9. If you now type ./aos.sh OR bash aos.sh it will take you to the OS
 
-9. als je nu ./aos.sh OF bash aos.sh typt brengt het je naar de OS
-
-10. JE BENT KLAAR!
+10. YOU ARE DONE!
